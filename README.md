@@ -1,4 +1,4 @@
 A copy of the offical site e-Albania. 
 Another way of coding it while getting the same visual results!
 
-![alt text](https://media.istockphoto.com/photos/red-grunge-background-picture-id1160959166?b=1&k=20&m=1160959166&s=170667a&w=0&h=CQgW_AML6xPjgo4yv8kwM_G6pytRe1EGk_7t6Qp2LSQ=)
+![alt text](![Screenshot 2021-11-18 105434](https://user-images.githubusercontent.com/57449723/142393836-f3a89440-a2a4-4991-8eb1-971e1ba985e7.png))
